@@ -14,6 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
             Text("This is a test commit")
+            Text("This is another test commit")
         }
         .padding()
     }
